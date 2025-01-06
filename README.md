@@ -24,12 +24,17 @@ This project aims to build an image classification model using Google’s Teacha
 
 ## 3- Steps to Run the Code
 **1. Install Required Libraries:**
+
      - To run the code, install the following libraries: pip install tensorflow pillow numpy
+     
 **2. Prepare the Image:**
+
      - Place the image you want to classify in the same folder as the script, or provide the full path to the image.
 **3. Run the Script:**
+
      - To run the script and make a prediction, use the following command: python VisionAI.ipynb
 **4.	Review the Results:**
+
      - The model will output the predicted label (Rose or Sunflower) along with the confidence level of the prediction.
 
 ## 4- Code Explanation
