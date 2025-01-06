@@ -44,7 +44,7 @@ This project aims to build an image classification model using Google’s Teacha
 - Prediction: After preprocessing the image, it is passed through the model to get the prediction, and the class with the highest probability is selected.
 
 ## 5- Example Output
-![Screenshot 2025-01-07 012642](https://github.com/user-attachments/assets/9f7f4a28-e3c1-438e-b18c-63f37af52e12)
+![Screenshot 2025-01-07 012807](https://github.com/user-attachments/assets/29a60a8e-1515-47ca-808a-7c6b2b7da5a7)
 
 ![Screenshot 2025-01-07 012621](https://github.com/user-attachments/assets/60b4d530-4962-474b-8599-2e8dba49e6c3)
 
