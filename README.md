@@ -25,7 +25,8 @@ This project aims to build an image classification model using Google’s Teacha
 ## 3- Steps to Run the Code
 **1. Install Required Libraries:**
 
-     - To run the code, install the following libraries: pip install tensorflow pillow numpy
+     - To run the code, install the following libraries: 
+       pip install tensorflow pillow numpy
      
 **2. Prepare the Image:**
 
@@ -43,9 +44,9 @@ This project aims to build an image classification model using Google’s Teacha
 - Prediction: After preprocessing the image, it is passed through the model to get the prediction, and the class with the highest probability is selected.
 
 ## 5- Example Output
-![Screenshot 2025-01-07 012242](https://github.com/user-attachments/assets/f25b6f32-a867-4d26-9974-d5b11e717901)
+![Screenshot 2025-01-07 012642](https://github.com/user-attachments/assets/9f7f4a28-e3c1-438e-b18c-63f37af52e12)
 
-![Screenshot 2025-01-07 012227](https://github.com/user-attachments/assets/6bceb459-0c9a-4cf1-995f-b4c4bde8e898)
+![Screenshot 2025-01-07 012621](https://github.com/user-attachments/assets/60b4d530-4962-474b-8599-2e8dba49e6c3)
 
 ## 6- Conclusion
 This project uses Teachable Machine to create a simple yet accurate image classification model that distinguishes between two types of images: “Rose” and “Sunflower,” allowing the correct category to be predicted for any new image.
